@@ -1,4 +1,6 @@
 (ns handlers)
+(require 'bot)
+(require 'brain)
 
 (defn settings
     [state key number]

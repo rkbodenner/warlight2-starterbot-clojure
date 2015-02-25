@@ -1,4 +1,5 @@
 (ns bot)
+(require 'handlers)
 
 (defn log
     [arg]
